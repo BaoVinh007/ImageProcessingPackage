@@ -1,0 +1,70 @@
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\bin\Release\imageCsharp.exe
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\bin\Release\imageCsharp.pdb
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\obj\x86\Release\imageCsharp.exe
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\obj\x86\Release\imageCsharp.pdb
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+C:\Users\EUNSUK\AppData\Local\Temporary Projects\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\obj\x86\Release\imageCsharp.exe
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\bin\Release\imageCsharp.exe
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\bin\Release\imageCsharp.pdb
+C:\Users\EUNSUK\Desktop\ImagePimp_CSharp\imageCsharp\obj\x86\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Desktop\imageCsharp\bin\Release\imageCsharp.exe
+C:\Users\Eunsuk\Desktop\imageCsharp\bin\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Desktop\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+C:\Users\Eunsuk\Desktop\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+C:\Users\Eunsuk\Desktop\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+C:\Users\Eunsuk\Desktop\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+C:\Users\Eunsuk\Desktop\imageCsharp\obj\x86\Release\imageCsharp.exe
+C:\Users\Eunsuk\Desktop\imageCsharp\obj\x86\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.exe
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.exe
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Desktop\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csprojResolveAssemblyReference.cache
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.exe
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.pdb
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csprojResolveAssemblyReference.cache
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.exe
+C:\Users\EUNSUK\Desktop\CurrentWork\CurrentWork\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.pdb
+C:\Users\EUNSUK\Desktop\imageCsharp\obj\x86\Release\imageCsharp.csprojResolveAssemblyReference.cache
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.exe
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.pdb
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csprojResolveAssemblyReference.cache
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.exe
+H:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.pdb
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.exe
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\bin\Release\imageCsharp.pdb
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csprojResolveAssemblyReference.cache
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.exe
+E:\ERIC_CHANG\STUDY\TA\ImageProcessingClass\imageProcessing\CSharp_Ver\imageCsharp\obj\x86\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\bin\Release\imageCsharp.exe
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\bin\Release\imageCsharp.pdb
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.ImageWindow.resources
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.MainWindow.resources
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.Properties.Resources.resources
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.csproj.GenerateResource.Cache
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.exe
+C:\Users\Eunsuk\Downloads\imageCsharp_StudentVer\imageCsharp\obj\x86\Release\imageCsharp.pdb
